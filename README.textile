@@ -1,0 +1,17 @@
+<h2>Opis</h2>
+Zadanie testowe - należy utworzyć klasę Money, która powinna przechowywać informację na temat kwoty i waluty.
+Podstawowe funkcje klasy:
+- dodawanie
+- odejmowanie
+- mnożenie
+- dzielenie
+Plusem jest utworzenie klasy według wzorca ValueObject.
+Dobrze jest dodać funkcje testowe.
+
+<h2>Instalacja zależności:</h2>
+Testy są napisane z użyciem zależności SimpleTest 1.2. Wykonanie polecenia
+<pre>composer install</pre>
+zainstaluje wymagane zależności.
+
+<h2>Uruchomienie testów:</h2>
+<pre>php test/test.php</pre>
